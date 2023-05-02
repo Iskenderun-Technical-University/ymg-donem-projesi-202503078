@@ -9,3 +9,5 @@ Bu uygulamayı kullanabilmek için satın almak gereklidir. Kişi, kartını kul
 Kişi, username ve password oluşturarak kaydolur.
 
 Kullanıcıdan hangi alanla ilgili hesaplama yapacaksa seçmesi istenir. Hangi formulu kullanacağını seçer ve girdileri ekleyerek hesaplamayı yapar.
+
+![FintechUyg](https://user-images.githubusercontent.com/123202052/235766414-fcded91a-f3e9-4dac-8aeb-dfb041a95a83.jpg)
