@@ -1,0 +1,9 @@
+                                                Veri Tabanlı Görsel Programlama Projesi
+                                                
+Eczane Otomasyonu
+
+Bu projeyi yapma motivasyonum,eczane personelinin satış ve girdi yönetimini kolaylaştırmaktır.
+
+Proje bittiğinde;ilaçlar,tedarikçiler,müşteriler ve kullanıcı alanlarında CRUD operasyonları yapan bir uygulama olacak.
+
+Tablolar:İlaçlar,kullanıcı,müşteri,tedarikçiler
